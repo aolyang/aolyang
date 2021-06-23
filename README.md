@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Octo1996
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m aolyang
 
-<!---
-Octo1996/Octo1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
++ I'm a front-end developer and interested in everythinig!
+
+## This is my plan in 2021
+
++ [ ] 1. :rocket: Finish my own ui library named carving, it's **WIP** and private.  
++ [ ] 2. :fast_forward: Learn  ***Introduction to Algorithms***.  
++ [ ] 3. :fast_forward: Research front-end performance optimization, detection and reporting.  
+
+**You can point me by open a new issue.**
