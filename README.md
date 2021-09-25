@@ -4,6 +4,6 @@
 
 ## This is my plan in 2021
 
-+ [] learn rust!
++ [ ] learn rust!
 
 **You can point me by open a new issue.**
