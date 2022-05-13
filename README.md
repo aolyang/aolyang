@@ -1,9 +1,5 @@
-# 👋 Hi, I’m aolyang
+# 👋 Hi, I’m Anthonio OuYang
 
 + I'm a front-end developer and interested in everythinig!
 
-## This is my plan in 2021
-
-+ [ ] learn rust!
-
-**You can point me by open a new issue.**
+trying to implement my blog using rust and vue.
