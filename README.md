@@ -1,6 +1,6 @@
 # 👋 Hi, I'm currently building a WYSIWYG rich text editor
 
-panling some great features (code playground block, resize block...)
+Planing some great features (code playground block, resize block...)
 
 curently in prototype phase. comming soon!!!
 
