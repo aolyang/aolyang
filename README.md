@@ -1,6 +1,6 @@
 # 👋 Hi, I'm currently building a WYSIWYG rich text editor
 
-goto pined repo to see the details:  https://github.com/aolyang/tiptap-contentful
+goto pined repo to see the details:  https://github.com/tiptiz
 
 Planing some great features (code playground block, resize block...)
 
